@@ -75,6 +75,18 @@ High interpretability using TF-IDF feature importance
 
 Scalable pipeline suitable for real-world deployment
 
+## 📊 Visualizations
+
+### 🔹 Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 🔹 ROC–AUC Curve
+![ROC Curve](images/roc_curve.png)
+
+### 🔹 Feature Importance (Top TF-IDF Terms)
+![Feature Importance](images/feature_importance.png)
+
+
 
 **Future Enhancements**
 

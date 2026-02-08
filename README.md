@@ -78,13 +78,13 @@ Scalable pipeline suitable for real-world deployment
 ## 📊 Visualizations
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### 🔹 ROC–AUC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### 🔹 Feature Importance (Top TF-IDF Terms)
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 
 
